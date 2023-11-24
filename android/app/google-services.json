@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357665662689",
+    "project_id": "thevetapp-9b5be",
+    "storage_bucket": "thevetapp-9b5be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357665662689:android:95cc5aeb9cfe206d0c79a0",
+        "android_client_info": {
+          "package_name": "com.example.vetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMY23qZeyF3P069gaAdycHLLfFElOVswo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357665662689:android:86b48f1bd1d041550c79a0",
+        "android_client_info": {
+          "package_name": "mx.tec.vetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMY23qZeyF3P069gaAdycHLLfFElOVswo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
