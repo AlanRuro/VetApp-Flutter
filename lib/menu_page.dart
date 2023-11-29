@@ -54,7 +54,6 @@ class _MenuPageState extends State<MenuPage> {
                           color: Colors.white70,
                           child: ListTile(
                             title: Text(docActual['name']),
-                            subtitle: Text(docActual['breed']),
                             onTap: () => {
                               Navigator.of(context).push(MaterialPageRoute(
                                   builder: (context) => DetailsPage(
